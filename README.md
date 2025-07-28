@@ -1,4 +1,4 @@
-🏎️ F1 Race Prediction using Machine Learning
+#🏎️ F1 Race Prediction using Machine Learning
 
 Welcome to the F1 Race Predictor repository!
 This project uses machine learning to predict outcomes of Formula 1 Grand Prix races based on historical data, driver/team stats, and real-time race conditions.
@@ -10,7 +10,7 @@ This project uses machine learning to predict outcomes of Formula 1 Grand Prix r
 
 ---
 
-📂 Repository Structure
+#📂 Repository Structure
 
 F1_GradientBoosting_Model.ipynb
 → Colab notebook implementing & deploying the Gradient Boosting model.
@@ -28,7 +28,7 @@ F1_Model_Comparison.ipynb (upcoming)
 
 ---
 
-🔮 Goals
+#🔮 Goals
 
 This project aims to:
 
@@ -55,7 +55,7 @@ Track feature importances: track type, weather, driver, team form, qualifying po
 
 ---
 
-✅ Current Model: Gradient Boosting
+#✅ Current Model: Gradient Boosting
 
 Status: ✅ Deployed
 
@@ -73,7 +73,7 @@ LogLoss: YY
 
 ---
 
-🧪 Planned Enhancements
+#🧪 Planned Enhancements
 
 Add more seasons of data (2010–2024)
 
@@ -87,7 +87,7 @@ Model dashboard with Streamlit or Gradio
 
 ---
 
-🧠 Tech Stack
+#🧠 Tech Stack
 
 Languages: Python
 
@@ -101,7 +101,7 @@ Notebook Runtime: Google Colab
 
 ---
 
-📈 Model Roadmap
+#📈 Model Roadmap
 
 Model	Status	Link
 
@@ -114,7 +114,7 @@ Ensemble Voting	🔄 Coming Soon
 
 ---
 
-✨ How to Use
+#✨ How to Use
 
 1. Clone the repo or open .ipynb notebooks in Google Colab.
 
@@ -134,7 +134,7 @@ Ensemble Voting	🔄 Coming Soon
 
 ---
 
-🤝 Contributing
+#🤝 Contributing
 
 If you'd like to contribute:
 
@@ -148,7 +148,7 @@ Submit a pull request
 
 ---
 
-📬 Contact
+#📬 Contact
 
 Created with ❤️ by Gitesh Malik
 📧 Email: giteshmalik0410@gmail.com 
